@@ -1,10 +1,141 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="pages/index.css">
     <title>Title</title>
 </head>
 <body>
+<div class="page">
 
+    <div class="header">
+        <img src="images/__logo.svg" alt="Логотип" class="logo">
+        <ul class="header__lang-links">
+            <li class="header__lang-link">RU</li>
+            <li class="header__lang-link">EN</li>
+        </ul>
+    </div>
+
+    <section class="lead">
+        <h1 class="lead__title">Путешествия по России</h1>
+        <p class="lead__subtitle">Настоящая страна не в выпусках новостей, а здесь.</p>
+        <figure class="image-wrapper">
+            <img src="images/__image.jpg" alt="Ваша полка верхняя" class="lead__image">
+            <figcaption class="lead__caption">ваша полка — верхняя</figcaption>
+        </figure>
+    </section>
+
+    <section class="intro">
+      <h1 class="intro__title">Чего мы там не видели?</h1>
+      <p class="intro__text">По опросам ВЦИОМ, 95% россиян мечтают куда-нибудь поехать, но только 36% планируют провести отпуск
+          в родной стране. Мол, чего мы тут, дома, не видели? На самом деле, Россия — это целая вселенная с
+          ласковым морем юга, густыми лесами Саян и суровыми льдами плато Путорана.
+          А ещё увидеть все эти красоты можно без миллионов на счету, загранпаспорта и многочасовых перелетов.
+          Как, например, Вера Башмакова — смелая молодая мама, которая взяла в охапку троих детей,
+          усадила их в свою «Ладу» и проехала 20 тысяч километров по родной стране.
+          Мы выбрали и описали некоторые интересные места, достойные вашего отпуска.</p>
+        <ul class="intro__list">
+            <li class="intro__list-item">Часовых поясов 11</li>
+            <li class="intro__list-item">Объектов природного наследия ЮНЕСКО 12</li>
+            <li class="intro__list-item">Объектов культурного наследия ЮНЕСКО 16</li>
+            <li class="intro__list-item">Природных заповедников 105</li>
+            <li class="intro__list-item">Аэропортов 241</li>
+        </ul>
+    </section>
+
+    <section class="photo-grid">
+        <div class="photo-grid__item">
+            <img src="images/__item-11.jpg" alt="Изображение вида из окна поезда" class="photo-grid__item-image">
+        </div>
+        <div class="photo-grid__item">
+            <img src="images/__item-10.jpg" alt="" class="photo-grid__item-image">
+        </div>
+        <div class="photo-grid__item">
+            <img src="images/__item-9.jpg" alt="" class="photo-grid__item-image">
+        </div>
+        <div class="photo-grid__item">
+            <img src="images/__item-8.jpg" alt="" class="photo-grid__item-image">
+        </div>
+        <div class="photo-grid__item">
+            <img src="images/__item-7.jpg" alt="" class="photo-grid__item-image">
+        </div>
+        <div class="photo-grid__item">
+            <img src="images/__item-6.jpg" alt="" class="photo-grid__item-image">
+        </div>
+        <div class="photo-grid__item">
+            <img src="images/__item-5.jpg" alt="" class="photo-grid__item-image">
+        </div>
+        <div class="photo-grid__item">
+            <img src="images/__item-4.jpg" alt="" class="photo-grid__item-image">
+        </div>
+        <div class="photo-grid__item">
+            <img src="images/__item-3.jpg" alt="" class="photo-grid__item-image">
+        </div>
+        <div class="photo-grid__item">
+            <img src="images/__item-2.jpg" alt="" class="photo-grid__item-image">
+        </div>
+        <div class="photo-grid__item">
+            <img src="images/__item-1.jpg" alt="" class="photo-grid__item-image">
+        </div>
+        <div class="photo-grid__item">
+            <img src="images/__item-12.jpg" alt="" class="photo-grid__item-image">
+        </div>
+    </section>
+
+    <section class="places">
+        <div class="place">
+                <h1 class="place__title">Куршская коса</h1>
+                <img src="images/__image-cosa.jpg" alt="Изображение Куршская коса" class="place__image">
+
+                <a href="#" class="place__website">park-kosa.ru</a>
+                <p class="place__paragraph place__paragraph_position_top">Здесь, посреди лесов и песчаных дюн, вы сможете увидеть два водных горизонта —
+                    спокойного Куршского залива с одной стороны
+                    и подёрнутого рябью волн Балтийского моря
+                    с другой. Уникальная природная зона на краю российского анклава.</p>
+                <p class="place__paragraph place__paragraph_position_bottom">На этом Калининградская область не заканчивается. Для путешественника
+                    и исследователя там же по соседству — самая западная точка России, Балтийская коса, —
+                    и немецкое наследие россыпи небольших приморских городов.
+                    Атмосфера здешних мест исключает суету, окуная в спокойствие природы
+                    и запах стального, прохладного моря.</p>
+        </div>
+
+        <div class="place">
+            <h1 class="place__title">Кольский</h1>
+            <img src="images/__image-colsky.jpg" alt="Изображение Кольский полуостров" class="place__image">
+
+            <a href="#" class="place__website">National Geographic</a>
+            <p class="place__paragraph place__paragraph_position_top">Почти весь полуостров находится за Полярным кругом.
+                Саамская тундра, от которой на юг —
+                тайга, а на север — Ледовитый океан, прикидывающийся Баренцевым морем.</p>
+            <p class="place__paragraph place__paragraph_position_bottom">Возможно, вы смотрели Звягинцева и даже слышали
+                историю арктического фестиваля в Териберке. Возможно, слово «Хибины» не осталось под снегом школьных воспоминаний
+                об уроках географии. Возможно, вы не интересовались пронизывающей земную кору
+                сверхглубокой скважиной, а от апатитов вас давно накрывает апатия. Но ваша мечта увидеть
+                северное сияние начинает сбываться с билетом в Мурманск.</p>
+        </div>
+
+    </section>
+
+    <section class="cover">
+        <h1 class="cover__title">До Байкала «на собаках»</h1>
+        <p class="cover__subtitle">По мотивам учебной темы о Транссибе — путешествие от столицы до Байкала на
+            электричках.</p>
+        <div class="cover__overlay"></div>
+    </section>
+
+    <div class="footer">
+        <nav class="links">
+            <ul class="links__list">
+                <li class="links__link">Карты</li>
+                <li class="links__link">Погода</li>
+                <li class="links__link">Расписание</li>
+                <li class="links__link">Календарь</li>
+                <li class="links__link">Путешествия</li>
+            </ul>
+        </nav>
+        <p class="footer__copyright"> &copy; 2020 Владислав</p>
+    </div>
+
+</div>
 </body>
 </html>
