@@ -6,6 +6,6 @@
 }
 
 .photo-grid__item-image:hover {
-    transform: scale(1.2) ;
+    transform: scale(1.2);
     transition: 200ms;
 }
