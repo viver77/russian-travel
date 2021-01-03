@@ -1,0 +1,6 @@
+
+.section-list__item + .section-list__item {
+    padding-left: 18px;
+}
+
+

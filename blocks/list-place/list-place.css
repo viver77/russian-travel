@@ -1,0 +1,18 @@
+
+.list-place {
+    display: grid;
+    row-gap: 80px;
+    margin: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .list-place {
+        row-gap: 73px;
+    }
+}
+
+@media screen and (max-width: 550px){
+    .list-place {
+        row-gap: 49px;
+    }
+}

@@ -1,0 +1,16 @@
+
+.list-place__paragraph_position_bottom {
+    grid-area: place__paragraph_position_bottom;
+}
+
+@media screen and (max-width: 720px){
+    .list-place__paragraph_position_bottom {
+        margin-top: 27px;
+    }
+}
+
+@media screen and (max-width: 550px){
+    .list-place__paragraph_position_bottom {
+        margin-top: 25px;
+    }
+}

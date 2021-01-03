@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f076ba57-8dd7-4675-b499-e0dcb185d15e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blocks/cover/__link/cover__link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/__overlay/cover__overlay.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/__page/cover__page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/cover.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__copyright/__copyright.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__list-item/footer__list-item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__list/footer__list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__menu/footer__menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__langs/header__langs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__link/_underline/header__link_underline.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__link/header__link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/image-wrapper/__caption/image-wrapper__caption.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/image-wrapper/__image/image-wrapper__image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/image-wrapper/image-wrapper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__list/intro__list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__page/intro__page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__text/intro__text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__title/intro__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/intro.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__image-wrapper/lead__image-wrapper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__page/lead__page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/lead.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/link/link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/list-place/__image/list-place__image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/list-place/__item/list-place__item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/list-place/__paragraph/__paragraph.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/list-place/__paragraph/_position/list-place__paragraph_position_bottom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/list-place/__paragraph/_position/list-place__paragraph_position_top.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/list-place/__title/list-place__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/list-place/__website/list-place__website.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/list-place/list-place.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/logo/logo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/page/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/photo-grid/__item-image/photo-grid__item-image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/photo-grid/__item/photo-grid__item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/photo-grid/__list/photo-grid__list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/photo-grid/photo-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/__page/places__page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/places.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/section-list/__item/section-list__item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/section-list/section-list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/section-subtitle/section-subtitle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/section-title/section-title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-BlackItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-BlackItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-BoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-BoldItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraBold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraBoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraBoldItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraLight.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraLight.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraLightItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraLightItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Light.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-LightItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-LightItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Medium.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-MediumItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-MediumItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-SemiBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-SemiBold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-SemiBoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-SemiBoldItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Thin.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Thin.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ThinItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ThinItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-italic.var.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-roman.var.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter.var.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/inter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/__background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/__background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/__image-colsky.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/__image-colsky.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/__image-cosa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/__image-cosa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/__image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/__image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/__item-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/__item-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/__item-10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/__item-10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/__item-11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/__item-11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/__item-12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/__item-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/__item-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/__item-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/__item-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/__item-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/__item-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/__item-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/__item-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/__item-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/__item-6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/__item-7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/__item-7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/__item-8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/__item-8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/__item-9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/__item-9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/__item.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/__item.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1m0mn1MmzosFuUdePkvMcAniWbm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/Яндекс уроки по веб/3 спринт_ Разбор первой курсовой работы_Сергеева_22 поток/3 спринт_ Разбор первой курсовой работы_Сергеева_22 поток/public/public" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Влад\Desktop\dev\russian-travel\fonts" />
+      <recent name="C:\Users\Влад\Desktop\dev\russian-travel" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f076ba57-8dd7-4675-b499-e0dcb185d15e" name="Default Changelist" comment="" />
+      <created>1608639045768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608639045768</updated>
+      <workItem from="1608639047857" duration="60803000" />
+      <workItem from="1608814466508" duration="61024000" />
+      <workItem from="1609031782729" duration="128504000" />
+      <workItem from="1609463758781" duration="52762000" />
+      <workItem from="1609575935368" duration="4667000" />
+      <workItem from="1609584873473" duration="2406000" />
+      <workItem from="1609588258012" duration="781000" />
+      <workItem from="1609589312377" duration="19601000" />
+    </task>
+    <task id="LOCAL-00001" summary=" Test">
+      <created>1608639185431</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608639185431</updated>
+    </task>
+    <task id="LOCAL-00002" summary=" архив 24.12">
+      <created>1608800205567</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608800205567</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=" Test" />
+    <MESSAGE value=" архив 24.12" />
+    <option name="LAST_COMMIT_MESSAGE" value=" архив 24.12" />
+  </component>
+</project>

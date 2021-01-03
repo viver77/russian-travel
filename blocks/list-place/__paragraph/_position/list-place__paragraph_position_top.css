@@ -1,0 +1,12 @@
+
+.list-place__paragraph_position_top {
+    grid-area: place__paragraph_position_top;
+    margin-bottom: 27px;
+}
+
+@media screen and (max-width: 550px){
+    .list-place__paragraph_position_top {
+        margin-top: 32px;
+        margin-bottom: 0;
+    }
+}
