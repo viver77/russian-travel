@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f076ba57-8dd7-4675-b499-e0dcb185d15e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blocks/page/__section/page__section.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cover/__page/cover__page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__link/cover__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__link/cover__link.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/cover/cover.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/cover.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/__page/intro__page.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/lead/__page/lead__page.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/places/__page/places__page.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/image-wrapper/image-wrapper.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/image-wrapper/image-wrapper.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />

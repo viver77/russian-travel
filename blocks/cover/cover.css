@@ -10,7 +10,7 @@
 @media screen and (max-width: 1024px) {
     .cover {
         padding: 195px 0;
-        margin: 0 calc((100% - 100vw)/2);
+        margin: 0 -48px;
     }
 
 }
@@ -18,5 +18,12 @@
 @media screen and (max-width: 768px) {
     .cover {
         padding: 115px 0;
+        margin: 0 -24px;
+    }
+}
+
+@media screen and (max-width: 550px){
+    .cover {
+        margin: 0 -16px;
     }
 }
