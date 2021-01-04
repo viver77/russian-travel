@@ -5,8 +5,19 @@
     max-width: 360px;
     margin: auto;
     text-align: center;
-    position: relative;
-    z-index: 2;
+    padding-bottom: 245px;
+}
+
+@media screen and (max-width: 1024px) {
+    .cover__subtitle {
+        padding-bottom: 195px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .cover__subtitle {
+        padding-bottom: 115px;
+    }
 }
 
 @media screen and (max-width: 550px){
@@ -14,5 +25,11 @@
         max-width: 288px;
         font-size: 14px;
         line-height: 1.14;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .cover__subtitle {
+        padding-bottom: 33px;
     }
 }

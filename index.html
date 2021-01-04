@@ -10,10 +10,10 @@
 <div class="page">
 
     <header class="header">
-        <img src="images/__logo.svg" alt="Логотип" class="logo">
+        <img class="logo" src="images/__logo.svg" alt="Логотип">
         <ul class="section-list header__langs">
             <li class="section-list__item">
-                <a class="header__link header__link_underline link" href="#" target="_self">RU</a>
+                <a class="header__link header__link_active link" href="#" target="_self">RU</a>
             </li>
             <li class="section-list__item">
                 <a class="header__link link" href="#" target="_self">EN</a>
@@ -26,7 +26,7 @@
             <h1 class="lead__title section-title ">Путешествия по России</h1>
             <p class="lead__subtitle section-subtitle ">Настоящая страна не в выпусках новостей, а здесь.</p>
             <figure class="image-wrapper lead__image-wrapper">
-                <img src="images/__image.jpg" alt="Ваша полка верхняя" class="image-wrapper__image">
+                <img class="image-wrapper__image" src="images/__image.jpg" alt="Ваша полка верхняя">
                 <figcaption class="image-wrapper__caption">ваша полка — верхняя</figcaption>
             </figure>
         </section>
@@ -50,7 +50,7 @@
             </ul>
         </section>
 
-        <section class="photo-grid" aria-label="Виды России">
+        <section class="photo-grid page__section" aria-label="Виды России">
             <ul class="photo-grid__list section-list">
                 <li class="photo-grid__item">
                     <img src="images/__item-11.jpg" alt="Вида из окна поезда" class="photo-grid__item-image">
@@ -180,12 +180,12 @@
             </ul>
         </section>
 
-        <section class="cover">
-            <a class="cover__link" href="https://stampsy.com/na-elektrichkakh-do-baikala" target="_blank"></a>
-            <div class="cover__overlay"></div>
-            <h1 class="section-title cover__title">До Байкала «на&nbsp;собаках»</h1>
-            <p class="section-subtitle cover__subtitle">По мотивам учебной темы о Транссибе — путешествие от
-                столицы до Байкала на электричках.</p>
+        <section class="cover page__section">
+            <a class="cover__link-overlay" href="https://stampsy.com/na-elektrichkakh-do-baikala" target="_blank">
+              <h1 class="section-title cover__title">До Байкала «на&nbsp;собаках»</h1>
+              <p class="section-subtitle cover__subtitle">По мотивам учебной темы о Транссибе — путешествие от
+                  столицы до Байкала на электричках.</p>
+            </a>
         </section>
     </main>
 

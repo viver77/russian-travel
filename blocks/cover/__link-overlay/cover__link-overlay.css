@@ -1,0 +1,13 @@
+
+.cover__link-overlay {
+    width: 100%;
+    z-index: 1;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.cover__link-overlay:hover {
+    background-color: #2A2C2F;
+    opacity: 0.8;
+    transition: 200ms;
+}
