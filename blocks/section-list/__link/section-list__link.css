@@ -1,12 +1,12 @@
 
-.header__link {
+.section-list__link {
     font-size: 24px;
     font-weight: 400;
     line-height: 1.17;
 }
 
-@media screen and (max-width: 550px){
-    .header__link {
+@media screen and (max-width: 560px){
+    .section-list__link {
         font-size: 18px;
         line-height: 1.11;
     }

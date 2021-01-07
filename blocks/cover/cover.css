@@ -2,40 +2,29 @@
 .cover {
     background-image: url(../../images/__background.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
+    background-position: center;
     max-width: 1184px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    position: relative;
-}
-
-.cover::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-color: #2A2C2F;
-    width: 100%;
-    height: 100%;
-    opacity: 0.3;
+    margin: auto;
 }
 
 @media screen and (max-width: 1024px) {
     .cover {
-        margin: 0 -48px;
+
     }
 }
 
 @media screen and (max-width: 768px) {
     .cover {
-        margin: 0 -24px;
+
     }
 }
 
 @media screen and (max-width: 550px){
     .cover {
-        margin: 0 -16px;
+
     }
 }

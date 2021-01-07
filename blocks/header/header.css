@@ -2,6 +2,13 @@
 .header {
     display: flex;
     justify-content: space-between;
-    align-items: center;
     padding-top: 28px;
+    max-width: 1184px;
+    /*margin: auto;*/
+}
+
+@media screen and (max-width: 560px) {
+    .header {
+        padding-top: 16px;
+    }
 }

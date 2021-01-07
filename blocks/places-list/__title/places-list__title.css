@@ -1,0 +1,29 @@
+
+.places-list__title {
+  grid-area: place__title;
+  font-size: 72px;
+  line-height: 1.06;
+  max-width: 460px;
+  margin: 0 16px 0 0;
+}
+
+@media screen and (max-width: 900px) {
+  .places-list__title {
+    font-size: 42px;
+    line-height: 1.1;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .places-list__title {
+    font-size: 32px;
+    line-height: 1.09;
+    margin: 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .places-list__title {
+    margin-left: 16px;
+  }
+}

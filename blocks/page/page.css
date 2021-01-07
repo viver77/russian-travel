@@ -2,9 +2,6 @@
 .page {
     background-color: #2A2C2F;
     color: #FFFFFF;
-    padding-right: 48px;
-    padding-left: 48px;
-
     font-family: 'Inter', 'Arial', sans-serif;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
@@ -12,18 +9,6 @@
     -ms-text-size-adjust: 100%;
     -moz-text-size-adjust: 100%;
     text-rendering: optimizeLegibility;
+    min-width: 320px;
 }
 
-@media screen and (max-width: 768px) {
-    .page {
-        padding-right: 24px;
-        padding-left: 24px;
-    }
-}
-
-@media screen and (max-width: 550px){
-    .page {
-        padding-right: 16px;
-        padding-left: 16px;
-    }
-}

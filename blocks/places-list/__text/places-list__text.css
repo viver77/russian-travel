@@ -1,0 +1,4 @@
+
+.places-list__text {
+  grid-area: place__text;
+}

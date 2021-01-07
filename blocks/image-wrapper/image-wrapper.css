@@ -1,12 +1,1 @@
 
-@media screen and (max-width: 768px) {
-    .image-wrapper {
-        margin: 0 -24px;
-    }
-}
-
-@media screen and (max-width: 550px) {
-    .image-wrapper {
-        margin: 0 -16px;
-    }
-}
