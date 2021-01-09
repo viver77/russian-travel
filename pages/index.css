@@ -15,6 +15,7 @@
 @import url(../blocks/section-list/__item/section-list__item.css);
 @import url(../blocks/section-list/__link/section-list__link.css);
 @import url(../blocks/section-list/__link/_active/section-list__link_active.css);
+@import url(../blocks/section-list/__normal-text/section-list__normal-text.css);
 
 @import url(../blocks/logo/logo.css);
 
@@ -49,18 +50,6 @@
 @import url(../blocks/places-list/__image/places-list__image.css);
 @import url(../blocks/places-list/__website/places-list__website.css);
 @import url(../blocks/places-list/__text);
-
-/*@import url(../blocks/places_dis/places.css);*/
-
-/*@import url(../blocks/place_dis/place.css);*/
-/*@import url(../blocks/place_dis/__item/place__item.css);*/
-/*@import url(../blocks/place_dis/__title/place__title.css);*/
-/*@import url(../blocks/place_dis/__website-wrapper/place__website-wrapper.css);*/
-/*@import url(../blocks/place_dis/__website/place__website.css);*/
-/*@import url(../blocks/place_dis/__url-heading/place__url-heading.css);*/
-/*@import url(../blocks/place_dis/__image/place__image.css);*/
-/*@import url(../blocks/place_dis/__paragraph-wrapper/place__paragraph-wrapper.css);*/
-/*@import url(../blocks/place_dis/__paragraph/place__paragraph.css);*/
 
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__link-overlay/cover__link-overlay.css);

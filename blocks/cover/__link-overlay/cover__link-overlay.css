@@ -6,8 +6,7 @@
     position: relative;
 }
 
-.cover__link-overlay:hover {
-    background-color: #2A2C2F;
+.cover__link-overlay:hover::before {
     opacity: 0.8;
     transition: 200ms;
 }
